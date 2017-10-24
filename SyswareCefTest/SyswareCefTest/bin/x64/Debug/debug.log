@@ -1,0 +1,58 @@
+[1020/105654:WARNING:raw_channel_win.cc(532)] WriteFile: 管道正在被关闭。 (0xE8)
+[1020/105654:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[1020/105927:WARNING:raw_channel_win.cc(532)] WriteFile: 管道正在被关闭。 (0xE8)
+[1020/105927:WARNING:channel.cc(359)] RawChannel write error
+[1020/105927:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[1020/110943:WARNING:raw_channel_win.cc(532)] WriteFile: 管道正在被关闭。 (0xE8)
+[1020/110943:WARNING:channel.cc(359)] RawChannel write error
+[1020/110943:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[1020/111300:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[1020/111300:WARNING:raw_channel_win.cc(532)] WriteFile: 管道正在被关闭。 (0xE8)
+[1020/111300:WARNING:channel.cc(359)] RawChannel write error
+[1020/112417:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[1020/113355:WARNING:raw_channel_win.cc(532)] WriteFile: 管道正在被关闭。 (0xE8)
+[1020/113355:WARNING:channel.cc(359)] RawChannel write error
+[1020/113355:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[1020/114434:WARNING:raw_channel_win.cc(532)] WriteFile: 管道正在被关闭。 (0xE8)
+[1020/114434:WARNING:channel.cc(359)] RawChannel write error
+[1020/114652:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[1020/135416:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[1020/143921:WARNING:raw_channel_win.cc(532)] WriteFile: 管道正在被关闭。 (0xE8)
+[1020/143921:WARNING:channel.cc(359)] RawChannel write error
+[1020/143921:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[1020/151712:WARNING:raw_channel_win.cc(532)] WriteFile: 管道正在被关闭。 (0xE8)
+[1020/151712:WARNING:channel.cc(359)] RawChannel write error
+[1020/151712:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[1020/151831:WARNING:raw_channel_win.cc(532)] WriteFile: 管道正在被关闭。 (0xE8)
+[1020/151831:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[1020/151831:WARNING:channel.cc(359)] RawChannel write error
+[1020/153017:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[1020/153703:WARNING:raw_channel_win.cc(532)] WriteFile: 管道正在被关闭。 (0xE8)
+[1020/153703:ERROR:ipc_channel_win.cc(512)] pipe error: 232
+[1020/153703:WARNING:channel.cc(359)] RawChannel write error
+[1020/153703:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[1020/153703:ERROR:gles2_cmd_decoder.cc(13414)] [.CommandBufferContext.RenderWorker-0000000002EF6DE0]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0
+[1020/161315:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[1020/161315:WARNING:raw_channel_win.cc(532)] WriteFile: 管道正在被关闭。 (0xE8)
+[1020/161315:WARNING:channel.cc(359)] RawChannel write error
+[1020/161454:WARNING:raw_channel_win.cc(532)] WriteFile: 管道正在被关闭。 (0xE8)
+[1020/161454:WARNING:channel.cc(359)] RawChannel write error
+[1020/161454:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[1020/161517:WARNING:raw_channel_win.cc(532)] WriteFile: 管道正在被关闭。 (0xE8)
+[1020/161517:WARNING:channel.cc(359)] RawChannel write error
+[1020/161517:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[1020/161929:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[1020/163110:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[1020/163223:WARNING:quota_manager.cc(1778)] Create directory failed for path
+[1020/163223:WARNING:quota_manager.cc(1778)] Create directory failed for path
+[1020/163224:WARNING:quota_manager.cc(1778)] Create directory failed for path
+[1020/163224:WARNING:quota_manager.cc(1778)] Create directory failed for path
+[1020/163224:WARNING:quota_manager.cc(1778)] Create directory failed for path
+[1020/163224:WARNING:quota_manager.cc(1778)] Create directory failed for path
+[1020/163308:ERROR:ssl_client_socket_openssl.cc(1149)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1020/163502:ERROR:ssl_client_socket_openssl.cc(1149)] handshake failed; returned -1, SSL error code 1, net_error -101
+[1020/163651:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[1020/164152:ERROR:ipc_channel_win.cc(217)] pipe error: 109
+[1020/164152:WARNING:raw_channel_win.cc(532)] WriteFile: 管道正在被关闭。 (0xE8)
+[1020/164152:WARNING:channel.cc(359)] RawChannel write error
+[1020/164152:ERROR:gles2_cmd_decoder.cc(13414)] [.CommandBufferContext.RenderWorker-0000000002765400]GL ERROR :GL_INVALID_VALUE : glCopySubTextureCHROMIUM: source texture has no level 0

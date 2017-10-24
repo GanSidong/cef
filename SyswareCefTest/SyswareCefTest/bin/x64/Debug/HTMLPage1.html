@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <link href="marketing.css" rel="stylesheet" />
+    <title>
+    </title>
+    
+</head>
+<body>
+    <form>
+        <br />
+        <input class="pure-button" type="button" name="btn1" id="btn1" value="测试按钮1" onclick="clickBtn1()" />
+        <br /><br />
+        <input class="pure-button" type="button" name="btn2" id="btn2" value="测试按钮2" onclick="clickBtn2()" />
+        <br /><br />
+        <input class="pure-button" type="button" name="btn3" id="btn3" value="获取winform输入内容" onclick="clickBtn3()" />
+        <br /><br />
+        <input class="pure-button" type="text" name="text1" id="text1" />
+        <br />
+    </form>
+    <script type="text/javascript">
+
+        function clickBtn1() {
+            alert('这是一个alert弹窗');
+        }
+
+        function clickBtn2() {
+            cef.showHelloCef();
+        }
+
+        function clickBtn3() {
+            var str = form.getInputStr();
+            document.getElementById("text1").value = str;
+        }
+
+        function getText1Value() {
+            var html = document.getElementById("text1").value;
+            return html;
+        }
+    </script>
+</body>
+</html>
